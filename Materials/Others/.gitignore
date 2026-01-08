@@ -1,0 +1,3 @@
+# Ignorer le dossier de scripts et l'environnement virtuel
+Materials/Others/
+.venv/
