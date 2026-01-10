@@ -1,20 +1,13 @@
-import os
-import random
-from PIL import Image
 
-# Paramètres
-png_dir = '../../Backup/all_png'
-out_path = '../Display/display_50.png'
-template_path = '../Display/Display template.png'
-nb_flags = 50
 import os
 from PIL import Image
 
-# Paramètres
-png_dir = '../../Backup/all_png'
-out_path = '../Display/display_all.png'
-template_path = '../Display/Display template.png'
-cols = 5
+# Chemins robustes basés sur l'emplacement du script
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+png_dir = os.path.abspath(os.path.join(SCRIPT_DIR, '../../Releases/Backup/all_png'))
+out_path = os.path.abspath(os.path.join(SCRIPT_DIR, '../Display/display_all.png'))
+template_path = os.path.abspath(os.path.join(SCRIPT_DIR, '../Display/Display template.png'))
+cols = 5  # Nombre de colonnes
 
 # Liste noire (noms de fichiers sans extension)
 blacklist = {
@@ -28,8 +21,10 @@ blacklist = {
     'sindrian_diktat',
 }
 
-# Largeur du template
+
+# Largeur du template (à ajuster si besoin)
 TEMPLATE_WIDTH = 1353
+
 
 # Lister et trier les png hors blacklist
 all_pngs = sorted([
@@ -58,4 +53,4 @@ with Image.open(template_path) as template:
         y = margin_y + row * (flag_h + space_y)
         out.alpha_composite(img, (int(x), int(y)))
     out.save(out_path)
-print('Fichier généré:', out_path)
+print('Fichier généré :', out_path)
