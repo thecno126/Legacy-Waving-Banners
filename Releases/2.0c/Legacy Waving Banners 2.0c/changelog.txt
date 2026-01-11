@@ -1,3 +1,7 @@
+2.0c (January 11, 2026)
+- Correct gameversion (minor error on RC number)
+- Add an alternative hegemony flag more faithful to the vanilla version
+
 2.0b (January 10, 2026)
 - Add missings vanilla flags to the collection : ai_remnant, player_flag (1-3), lg, player_logo00_flag
 - Add support for Arma Armatura and Machina Void Shipyards
