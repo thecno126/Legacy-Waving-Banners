@@ -1,21 +1,20 @@
 {
-  "id": "LegacyWavingBanners",
-  "name": " .Legacy Waving Banners",
-  "author":"thecno126",
-  "version": "2.0b",
+  "id": "legacyWavingBanners",
+  "name": " $Legacy Waving Banners (vanilla)",
+  "author": "thecno126",
+  "version": "2.0c",
   "description": "Taking some artistic liberty, this mod makes the factions banners wavy. \nThis is the vainnal version, which includes all vanilla factions and a few new player faction flags.",
   "gameVersion": "0.98a-RC8",
   "jars": ["jars/LegacyWavingBanners.jar"],
-  "modPlugin": "legacywavingbanners.LegacyWavingBannersPlugin"
-  "dependencies":
-[
-	{
-		"id": "lw_lazylib",
-		"name": "LazyLib",
-	},
-	{
-		"id": "lunalib",
-		"name": "LunaLib",
-	},
-]
+  "modPlugin": "legacywavingbanners.LegacyWavingBannersPlugin",
+  "dependencies": [
+    {
+        "id": "lw_lazylib",
+        "name": "LazyLib"
+    },
+    {
+        "id": "lunalib",
+        "name": "LunaLib"
+    }
+  ]
 }
