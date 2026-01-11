@@ -1,0 +1,14 @@
+{
+  "settings": [
+    {
+      "id": "hegemonyFlag",
+      "name": "Hegemony Flag",
+      "type": "string",
+      "defaultValue": "default",
+      "options": [
+        { "value": "default", "label": "Default" },
+        { "value": "alt", "label": "Alternative" }
+      ]
+    }
+  ]
+}
