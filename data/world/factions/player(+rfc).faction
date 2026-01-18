@@ -1,0 +1,75 @@
+{
+	"id":"player",
+
+	"flags":[
+		{
+			"logo":"graphics/factions/custom/player_wolf_flag.png",
+			"crest":"graphics/factions/custom/player_wolf_crest.png"
+		},
+		{
+			"logo":"graphics/factions/custom/player_united_flag.png",
+			"crest":"graphics/factions/custom/player_united_crest.png"
+		},
+		{
+			"logo":"graphics/factions/custom/player_gear_flag.png",
+			"crest":"graphics/factions/custom/player_gear_crest.png"
+		},
+		{
+			"logo":"graphics/factions/custom/player_eagle_flag.png",
+			"crest":"graphics/factions/custom/player_eagle_crest.png"
+		},
+		{
+			"logo":"graphics/factions/custom/player_pentagon_flag.png",
+			"crest":"graphics/factions/custom/player_pentagon_crest.png"
+		},
+		{
+			"logo":"graphics/factions/custom/player_earth_flag.png",
+			"crest":"graphics/factions/custom/player_earth_crest.png"
+		},
+		{
+			"logo":"graphics/factions/custom/player_hands_flag.png",
+			"crest":"graphics/factions/custom/player_hands_crest.png"
+		},
+		{
+			"logo":"graphics/rfc/factions/custom/rfc_mechab_flag.png",
+			"crest":"graphics/rfc/factions/custom/rfc_mechab_crest.png"
+		},
+		{
+			"logo":"graphics/rfc/factions/custom/rfc_owl_flag.png",
+			"crest":"graphics/rfc/factions/custom/rfc_owl_crest.png"
+		},
+		{
+			"logo":"graphics/rfc/factions/custom/rfc_baryon_flag.png",
+			"crest":"graphics/rfc/factions/custom/rfc_baryon_crest.png"
+		},
+		{
+	],
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

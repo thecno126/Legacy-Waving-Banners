@@ -10,3 +10,11 @@
 
 2.0 (January 09, 2026)
 Zer0morph's original flags remain unchanged, but this new version features new mod support (see section in forum thread) and a new design philosophy that favours changing the black background to dark grey to avoid altering the colour patterns completely.
+
+
+W.I.P :
+- PAGMS : correcting incorrect path for sfc_player and removed unused flags
+- RFC : permission to add 3 flags : rfc_mechab_flag.png (version prior to 1.2.0), rfc_baryon_flag.png (version prior to 1.2.0), rfc_owl_flag.png
+- Added BUNS
+- Minor shadow/highlights adjustments on various flags
+- Waiting for permission for certains mods, mainly under no derivative licenses
