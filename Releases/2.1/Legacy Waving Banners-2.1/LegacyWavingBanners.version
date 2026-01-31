@@ -1,0 +1,13 @@
+{
+    "masterVersionFile": "https://raw.githubusercontent.com/thecno126/Legacy-Waving-Banners/main/LegacyWavingBanners.version",
+    "modName": "LegacyWavingBanners.version",
+    "modThreadId": 34774,
+    "modVersion": {
+        "major": 2,
+        "minor": 1,
+        "patch": ""
+    },
+    "starsectorVersion": "0.98a-RC8",
+    "directDownloadURL": "https://github.com/thecno126/Legacy-Waving-Banners/releases/download/2.1/Legacy.Waving.Banners.2.1.zip",
+	  "changelogURL":"https://raw.githubusercontent.com/thecno126/Legacy-Waving-Banners/main/changelog.txt",
+}
