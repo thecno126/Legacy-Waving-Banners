@@ -4,7 +4,7 @@
 - Minor shadow/highlights adjustments on numerous flags to harmonize the aesthetic
 - Collected permission from mod authors for all new mods added
 - Added alternative flags version for tahlan_legio and tahlan_greathouses
-- Secret of the frontier removed : waiting for authors permission
+- Secret of the frontier removed : waiting for author's permission
 
 2.0c (January 11, 2026)
 - Corrected gameversion (minor error on RC number)
