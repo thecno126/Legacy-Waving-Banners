@@ -1,9 +1,10 @@
-2.1 
+2.1 (February 5, 2026)
 - PAGMS : correcting incorrect path and removed unused flags
 - HSI : removed unused flags
-- Added support for Buns - flag pack
 - Minor shadow/highlights adjustments on numerous flags to harmonize the aesthetic
 - Collected permission from mod authors for all new mods added
+- Added alternative flags version for tahlan_legio and tahlan_greathouses
+- Secret of the frontier removed : waiting for authors permission
 
 2.0c (January 11, 2026)
 - Corrected gameversion (minor error on RC number)

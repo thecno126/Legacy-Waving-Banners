@@ -1,8 +1,8 @@
 {
-  "id": "legacyWavingBanners",
+  "id": "LegacyWavingBanners",
   "name": " $Legacy Waving Banners (vanilla)",
   "author": "thecno126",
-  "version": "2.0c",
+  "version": "2.1",
   "description": "Taking some artistic liberty, this mod makes the factions banners wavy. \nThis is the vainnal version, which includes all vanilla factions and a few new player faction flags.",
   "gameVersion": "0.98a-RC8",
 }
